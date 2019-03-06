@@ -84,6 +84,6 @@ My main interest consists of neuronal modeling and data analysis, with use of Ma
 
 Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. Research assistant at [Prof. Herz lab for Computational Neuroscience](http://www.neuro.bio.lmu.de/members/comp_neuro_herz/herz_a/index.html), working on data inference in single cell model.
 
-During my Master I also contributed to the [ratCAVE](https://github.com/ratcave) project of prof. Sirota lab at LMU.
+During my Master I also contributed to the [ratCAVE](https://github.com/ratcave) project of Prof. Sirota lab at LMU.
 
 Previously a [Technical Student](http://mad.web.cern.ch/mad/) at CERN.
