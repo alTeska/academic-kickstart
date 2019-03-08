@@ -16,7 +16,7 @@ role = "Neuroengineering Student"
 organizations = [ { name = "Technical University Munich", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include Computational Neuroscience and Machine Learnig applications in Neuroscience."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "aleksandra.teska@gmail.com"
