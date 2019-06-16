@@ -80,10 +80,11 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My main interest consists of neuronal modeling and data analysis, with use of Machine Learning inspired techniques.
+My main interest consists of neuronal modelling and data analysis, with use of Machine Learning inspired techniques and particular interest in Bayesian Inference applications.
 
-Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. Research assistant at [Prof. Herz lab for Computational Neuroscience](http://www.neuro.bio.lmu.de/members/comp_neuro_herz/herz_a/index.html), working on data inference in single cell model.
+Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. At the moment working for INCF with [Brian 2](https://brian2.readthedocs.io/en/stable/) as a part of [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#4897782660333568), where I develop a new [Model Fitting Toolbox](https://github.com/alTeska/brian2tools/tree/modelfitting_dev), aiming to fit traces and spike trains to neuronal models.
 
-During my Master I also contributed to the [ratCAVE](https://github.com/ratcave) project of Prof. Sirota lab at LMU.
+
+Previously a research assistant at [Prof. Herz lab for Computational Neuroscience](http://www.neuro.bio.lmu.de/members/comp_neuro_herz/herz_a/index.html), working on data inference in single cell model. During my Master I also contributed to the [ratCAVE](https://github.com/ratcave) project of Prof. Sirota lab at LMU.
 
 Previously a [Technical Student](http://mad.web.cern.ch/mad/) at CERN.
