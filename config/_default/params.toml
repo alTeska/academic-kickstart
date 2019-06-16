@@ -66,7 +66,7 @@ email = "aleksandra.teska@gmail.com"
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
   {icon = "skype", icon_pack = "fab", name = "Skype", link = "skype:aleksandra.teska"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/@alTeska"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram", link = "https://telegram.me/alTeska"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   ]
