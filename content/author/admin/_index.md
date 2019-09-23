@@ -80,7 +80,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My main interest consists of neuronal modelling and data analysis, with use of Machine Learning inspired techniques and particular interest in Bayesian Inference applications. 
+My main interest consists of neuronal modelling and data analysis, with use of Machine Learning inspired techniques and particular interest in Bayesian Inference applications.
 
 Currently pursuing a Master of Science in Neuroengineering at Technical University of Munich. I worked on [Brian 2](https://brian2.readthedocs.io/en/stable/) as a part of [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#4897782660333568) with INCF, where I develop a new [Model Fitting Toolbox](https://github.com/brian-team/brian2modelfitting/), to allow the user to find the best fit of the parameters for recorded traces and spike trains.
 
